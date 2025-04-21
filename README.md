@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanket Patel
 
-<!--
-**SanketKumarP/SanketKumarP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Scientist | 📊 Power BI Certified Analyst | 🧠 ML Enthusiast | 💡 Insight-Driven Problem Solver
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a recent **Master of Data Science** graduate from the Illinois Institute of Technology with hands-on experience in **data analysis**, **machine learning**, **SQL/NoSQL databases**, and **business intelligence**. Passionate about turning raw data into actionable insights, I have contributed to academic research, real-time projects, and professional work.
+
+---
+
+## 🔧 Technical Skills
+
+- **Languages:** Python, R, SQL, MATLAB  
+- **ML & Stats:** Scikit-learn, PyTorch, TensorFlow, MLlib, Caret  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Visualization:** Power BI, Tableau, Seaborn, Matplotlib  
+- **Big Data & Tools:** Hadoop, Spark, Kafka, Hive
+
+---
+
+## 📈 Certifications
+
+- ✅ **Microsoft Certified: Power BI Data Analyst Associate** (PL-300)
+  - Credential ID: 14CFE592951DCCC7  
+
+---
+
+## 🌱 Currently Working On
+- Analyzing project impact and risk with the **CrowdDoing** team as a Data Analyst.
+- Enhancing reporting and visualization capabilities using **Power BI and SQL**.
+
+
+_"Transforming data into decisions, one project at a time."_ 🚀
